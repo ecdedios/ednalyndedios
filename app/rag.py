@@ -5,6 +5,9 @@ import os
 import base64
 import operator
 
+import ollama
+import chromadb
+
 from typing import Annotated, Sequence, TypedDict, Literal
 
 from openai import OpenAIError
@@ -49,7 +52,7 @@ def get_graph():
     text_splitter = CharacterTextSplitter(chunk_size=100, chunk_overlap=25)
     docs = text_splitter.split_documents(documents)
 
-    embedding_model = OpenAIEmbeddings()
+    embedding_model = ollama.embeddings(model="mxbai-embed-large", prompt=d)
     faiss_db = FAISS.from_documents(docs, embedding_model) 
     retriever = faiss_db.as_retriever(search_type="similarity", search_kwargs={"k": 4})
 

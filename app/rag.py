@@ -14,7 +14,6 @@ from langchain_ollama import ChatOllama
 from langchain import hub
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
-from langchain_community.vectorstores import Chroma
 from langchain_openai import OpenAIEmbeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.messages import AnyMessage, BaseMessage, HumanMessage, SystemMessage
@@ -33,7 +32,6 @@ from langchain_community.document_loaders import TextLoader
 from langchain_community.embeddings.sentence_transformer import (
     SentenceTransformerEmbeddings,
 )
-from langchain_community.vectorstores import Chroma
 
 
 
@@ -288,7 +286,7 @@ if __name__ == "__main__":
             """),
         ]
     }
-    for output in get_graph.stream(inputs):
+    for output in get_graph().stream(inputs):
         for key, value in output.items():
             pprint.pprint(f"Output from node '{key}':")
             pprint.pprint("---")

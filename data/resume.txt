@@ -1,0 +1,236 @@
+Ednalyn De Dios
+
+
+Objective:
+Data Scientist
+
+
+Summary: 5+ years of specialized experience collecting, recording, and analyzing public health data/information. Conducted statistical studies, and analysis of large data sets (both structured and unstructed) which led to decision making. Proficient in Python, SQL, and Power BI for data analysis, processing, and deployment of machine learning projects. Experienced with Python-based data science libraries such as NumPy, Pandas, PySpark, and Scikit-learn. Experienced in both supervised and unsupervised machine learning such as regression, gradient boosting, clustering, anomaly detection and other advanced statistical models. Worked in AWS and Azure ML. Experienced in data warehousing and familiar with GCP. Natural ability to mentor and lead others. Able to work collaboratively in a fast-paced, dynamic, remote environment, balancing multiple projects and deadlines. Able to explain complex concepts to non-technical stakeholders. Delivered actionable insights from data.
+
+
+Technical Skills: Natural Language Processing – Spacy – NLTK – GSDMM – LDA – Network Graph Analysis – Data Wrangling – ETL – EDA – Applied Statistics – Machine Learning – Data Storytelling – Git – Jupyter Notebooks – Anaconda – Python – SQL – Pandas – Numpy – Matplotlib – Seaborn – Scikit Learn – Visualization – Power BI – OCR – Computer Vision – AWS – Azure Machine Learning Studio – LLM – OpenAI – Semantic Kernel – LangChain – Prompt Engineering – GCP Vertex AI – RAG – Knowledge Graphs – Network Analysis
+
+
+Core competencies: adaptability – communication – organization – time management – collaboration/teamwork/partnering – problem solving – critical thinking – leadership – creativity – project and program management – data management
+
+
+Work Experience: Machine Learning Engineer
+Insight Global
+1224 Hammond Drive
+Suite 1500
+Atlanta, GA
+8/2021 - 9/2023
+Hours per week: 40
+
+Resolved over 200 client cases by providing support for their machine learning models. This involves model development, deployment, monitoring and troubleshooting, documentation and training, performance optimization, collaboration with data scientists and developers, and research and development. Worked on machine learning problems such as classification, forecasting, and natural language processing (NLP), including Generative AI (LLMs).
+
+Developed automation solutions for a pharmaceutical company. Performed optical character recognition (OCR) natural language processing techniques (NLP) to convert large unstructured datasets into functional business documents. Worked in Python, AWS, and UiPath.
+
+•	Performed research to find data relevant to data science analysis and business intelligence projects.
+•	Gathered business requirements that are necessary for the collection of data.
+•	Identified methods, processes, algorithms, tools, and systems to extract, transform, prepare, analyze and interpret findings from both structured and unstructured data sets.
+•	Wrote clean code to extract relevant data from existing the data warehouse and other existing sources.
+•	Utilized analytic or statistical software to acquire, analyze, and visualize data, ie. Python to include matplotlib, seaborn, plotly, networkx, etc. to create graphs and other advanced visualizations. Performed both descriptive and predictive, and optimization analyses with commonplace statistical theory that conveyed the results of projects to both technical and non-technical stakeholders.
+•	Developed techniques relative to data mining, ingestion, and wrangling, and other preparation to extracted data for further use in data science projects.
+•	Performed parsing and other feature engineering techniques to create new variables for further analysis and utilization on data science projects.
+•	Developed scripts to link various software and established the appropriate quality control procedures for high throughput data systems.
+•	Provided support to operation analysts in the design and appropriate experimental and analytical approaches, including organizing, evaluating, and interpreting results to leadership.
+•	Implemented Extract, Transform, and Load (ETL) operations in Python.
+•	Created and trained others on documentation on projects and programs.
+•	Ensured privacy in data use and understand government restrictions on protecting individual privacy. 
+•	Designed and developed data science products using computer vision, natural language processing, robotics process automation, and artificial intelligence resulting in a 10% increase in productivity and enhanced decision-making capabilities.
+•	Identified and troubleshooted complex problematic issues and reporting discrepancies in machine learning systems, resulting in productivity increase of 10%.
+•	Used various data tools and techniques to process large datasets into structured formats for analysis, resulting in decreased processing time and improved data accuracy.
+•	Worked in Azure and AWS cloud environments.
+•	Developed and deployed machine learning models, resolving over 200 client cases.
+•	Collaborated with data scientists and developers to optimize model performance and assess the quality of findings to include the work of other data scientists and business intelligence analysts. 
+•	In writing and debugging, used online resources like Stackoverflow and consulted with peers to solve difficult projects.
+•	Transformed large unstructured datasets into structured business documents to streamline workflows, enhance data accessibility, and support data-driven decision-making.
+
+Data Scientist
+TaskUs
+1650 Independence Dr
+New Braunfels, TX
+8/2019 - 9/2021
+Hours per week: 40
+
+Served on over 10 campaigns, working with large structured and unstructured data sets, cleaning/scrubbing data sets, and building/deploying models. Scoped innovative solutions. Worked with stakeholders on applying and delivering AI at scale. Conducted exploratory data analysis using NLP techniques. Created end-to-end data pipelines in AWS using Lambda, API Gateway, etc. Delivered actionable insights to stakeholders.
+
+•	Identified methods, processes, algorithms, tools, and systems to extract, transform, prepare, analyze and interpret findings from both structured and unstructured data sets.
+•	Utilized analytic or statistical software to acquire, analyze, and visualize data, ie. Python to include matplotlib, seaborn, plotly, networkx, etc. to create graphs and other advanced visualizations. Performed both descriptive and predictive, and optimization analyses with commonplace statistical theory that conveyed the results of projects to both technical and non-technical stakeholders.
+•	Developed techniques relative to data mining, ingestion, and wrangling, and other preparation to extracted data for further use in data science projects.
+•	Performed parsing and other feature engineering techniques to create new variables for further analysis and utilization on data science projects.
+•	Developed scripts to link various software and establishes appropriate quality control procedures for high throughput data systems.
+•	 Provided support to operation analysts in the design and appropriate experimental and analytical approaches, including organizing, evaluating, and interpreting results to leadership.
+•	Implemented Extract, Transform, and Load (ETL) operations in Python.
+•	Designed and developed data science products using computer vision, natural language processing, robotics process automation, and artificial intelligence resulting in a 10% increase in productivity and enhanced decision-making capabilities.
+•	Created and trained others on documentation on processes, projects and programs using Confluence and other platforms.
+•	Ensured privacy in data use and understand government restrictions on protecting individual privacy. 
+•	Designed and developed data analytics and data science products using Power BI, machine learning, and natural language processing resulting in actionable insights, improved data visualization, and enhanced business performance.
+•	Worked in AWS cloud environment.
+•	Worked with stakeholders in applying and delivering AI at scale.
+•	Conducted exploratory data analysis using natural language processing techniques.
+•	Created end-to-end data pipelines in AWS using Lambda, API Gateway, etc.
+•	Delivered actionable insights to leadership.
+
+Family Violence Unit Director / Office of Project Management and IT Director
+Aware Central Texas
+1003 North Main Street
+Belton, TX
+12/2009 - 3/2017
+Hours per week: 40
+
+Increased productivity of staff members and volunteers while serving as Chief Information Director. Established the agency’s domestic violence ‘Crisis to Confidence’ program as the Family Violence Unit Director in a child abuse prevention agency.
+
+•	Designed, planned, and implemented IT policies and procedures from scratch, aligning with the organization's 5-year strategic plan.
+•	Overhauled the organization's IT infrastructure, introducing new media marketing strategies to modernize operations.
+•	Provided specialized training to over 70 staff and volunteers, increasing productivity by 50%.
+•	Consulted with stakeholders to assess computing needs and system requirements, proposing innovative solutions.
+•	Managed projects ranging from simple to complex programming and development, including hardware and software troubleshooting.
+•	Investigated and resolved issues with computer, networking, and communication systems.
+•	Analyzed, designed, developed, tested, and documented programs/applications, including training users on new technologies.
+•	Created and managed computer information resources, developed backup and recovery protocols, and ensured data security.
+•	Prepared documentation for business processes and best practices while coordinating project activities.
+•	Monitored and maintained applications, addressing new requirements and software updates.
+•	Provided end-user support and technical assistance, ensuring compliance with security protocols for sensitive information.
+•	Stayed informed on technology trends, advising management on system improvements to enhance long-term effectiveness.
+•	Employed Scrum methodologies for managing programs and resolving computing issues through collaboration with department heads and end-users.
+•	Conducted specialized training, including "Communication, Boundaries, and Stress" and "Cultural Diversity" workshops.
+•	Led a pilot program in partnership with the Belton Police Department, achieving exponential growth over 4+ years.
+•	Offered direct assistance and support to domestic violence victims, guiding them from crisis to confidence.
+•	Collaborated with stakeholders to assess community needs, developing innovative solutions with community partners.
+•	Performed case management services, developed resources for victims and advocates, and implemented backup/recovery protocols.
+•	Created documentation for best practices, coordinated case management activities, and provided technical assistance to staff and volunteers.
+•	Ensured the security of sensitive information, informed management of victim-related obstacles, and proposed solutions to improve program effectiveness.
+•	Utilized Scrum methodologies in managing cases, fostering cooperation among departments, service providers, and victims.
+
+Logistics and Supply Chain Manager, Financial Manager, Warehouse Manager, Inventory Clerk
+US Navy
+32nd Street Naval Station
+San Diego, CA
+10/2001 - 3/2007
+Hours per week: 40
+
+•	Reconciled financial listings for five operating budgets worth over $63 billion.
+•	Prepared and maintained documents, forms, correspondence, records, reports, and files.
+•	Operated office machines and software programs for automated data processing.
+•	Routed and filed forms and messages.
+•	Maintained requisition logs and controlled inventory.
+•	Shipping and Receiving
+•	Micro purchases
+•	Applied regulations to maintain the security of materials and documents.
+•	Performed routine inventory and upkeep of several storerooms.
+•	Ordered/restocked mission-critical parts and supplies.
+
+
+Education: Western Governors University Salt Lake City, UT United States
+Master's of Science in Data Analytics (Data Science)  9 / 2023
+Relevant Coursework, Licenses and Certifications:
+Micro-credentials awarded in Data Preparation, Analytics Fundamentals, and Advanced Data Modeling.
+
+Western Governors University Salt Lake City, UT United States
+Bachelor's of Science in Data Management and Data Analytics (Data Science)  5 / 2023
+Relevant Coursework, Licenses and Certifications:
+CompTIA A+, CompTIA Network+, and CompTIA Project+
+
+
+Job Related Training: LinkedIn Learning
+• Deploying Scalable Machine Learning for Data Science
+• NLP with Python for Machine Learning Essential Training
+• Amazon Web Services for Data Science
+• AWS for DevOps: Continuous Delivery and Process Automation
+• Advanced NLP with Python for Machine Learning (2020)
+• Data Strategy
+• Data Analytics: Dashboards vs. Data Stories
+• Introduction to Prompt Engineering for Generative AI (2023)
+• Generative AI: Working with Large Language Models
+• Introducing Semantic Kernel: Building AI-Based Apps
+• Building Skills with Semantic Kernel
+• Building Apps with AI Tools: ChatGPT, Semantic Kernel, and Langchain
+• Building and Deploying Deep Learning Applications with TensorFlow
+• Hands-On Generative AI with Multi-Agent LangChain: Building Real-World Applications
+
+Neo4j
+• Cypher Fundamentals
+• Neo4j Fundamentals
+• Introduction to Neo4j Graph Data Science
+
+Coursera
+• Machine Learning on Google Cloud
+• Feature Engineering
+• Introduction to AI and Machine Learning on Google Cloud
+• Introduction to Generative AI
+• Launching into Machine Learning
+• ML Pipelines on Google Cloud
+• Machine Learning in the Enterprise
+• Production Machine Learning Systems
+• Tensorflow on Google Cloud
+• Machine Learning Operations (MLOps)
+
+
+Language Skills: Language, Spoken, Written, Read
+English, Advanced, Advanced, Advanced
+Tagalog, Intermediate, Intermediate, Intermediate
+
+
+Affiliations: National Society of Leadership and Success - Member
+
+
+Professional Publications: Towards Data Science
+• PAPEM-DM: 7 Steps Towards a Data Science Win
+• From DataFrame to Network Graph
+• Create a Network Graph in Power BI
+• From DataFrame to N-Grams
+• Create an N-Gram Ranking in Power BI
+• From DataFrame to Named-Entities
+• Populating a Network Graph with Named-Entities
+• Exploring the Trump Twitter Archive
+• Topic Modeling on PyCaret
+• Exploring the Trump Twitter Archive with SpaCy
+• Exploring the Trump Twitter Archive with PyCaret
+• Forecasting in Power BI
+• Get Your Feet Wet in Power BI
+• Populating a Network Graph with Words
+• GSDMM: Topic Modeling for Social Media Posts and Reviews
+• How to Use Amazon Textract to Read Invoices and Receipts
+• Convert PDF to Image in Python Using PyMuPDF
+• From PDF to Excel
+• Read a Multi-Column PDF Using PyMuPDF in Python
+• Read a Multi-Column PDF with Pytesseract in Python
+• Train and Deploy a Binary Classification Model in Azure Machine Learning
+
+Data Science Nerd
+• How to Start Practicing SQL at Home for Free
+• How to Set up Your New Computer for Data Science Projects with Python
+• Train and Deploy a Binary Classification Model in Azure Machine Learning
+• Train, Deploy, and Test a Time Series Forecasting Model with AutoML
+• Bring ChatGPT into your web app using Semantic Kernel, Python, and Flask
+• Summarize a job description with OpenAI, LangChain, and Streamlit
+• Named Entity Recognition Using ChatGPT
+• Install Docker on Windows
+• Elevate your NLP Game with AI (LLMs)
+• Build a ChatBot Using Local LLM
+• Make sense of unstructured data
+• Topic modeling and network analysis using BERTopic and NetworkX
+• Create a Network Graph in Power BI (2024 Edition)
+• Using Data Science to Predict Domestic Violence
+• Understanding Simple Linear Regression in Plain English
+• I’m lazy, so I asked ChatGPT to teach me types of regression techniques
+• From Dataframe to Knowledge Graph
+
+
+Honors and Awards: Winner of CivTechSA Datathon 2019 – Joint-Service Commendation Medal – Navy Good Conduct Medal – Admiral’s Letter of Merit – Sailor of the Year – Sailor of the Quarter – Global War on Terrorism Service Medal – Iraqi Campaign Medal – Armed Forces Expeditionary Medal – Enlisted Surface Warfare Specialist – Enlisted Aviation Warfare Specialist
+
+
+Recent Development Projects: • Make sense of unstructured data: Retrieval-augmented generation using knowledge graphs.
+
+• RAG on AWS: Retrieval-augmented generation using Amazon Textract, Amazon Bedrock, Amazon Kendra, and LangChain to implement an intelligent document processing system.
+
+• RAG on Local LLM Chatbot: Implemented retrieval-augmented generation using local large language models to demonstrate how a recruiter or an HR personnel can benefit from a chatbot that answers questions regarding candidates. Used Ollama, LangChain, and Streamlit to deploy.
+
+• GenAI-Powered NLP: Used LangChain and ChatGPT to demonstrate how organizations can use the power of LLMs to perform classic NLP tasks like named-entity recognition, sentiment analysis, topic modeling, and summarization.
+
+• Lesson Plan Maker: An LLM-powered application that automatically generates a complete lesson plan in accordance with Texas Essential Knowledge and Skills (TEKS).
+
+• Online News Popularity Predictor: A binary classification model that predicts whether an online post will go viral or not.
+

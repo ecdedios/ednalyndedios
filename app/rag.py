@@ -42,7 +42,7 @@ def get_graph():
     # RETRIEVER TOOL
 
     # load the document and split it into chunks
-    loader = TextLoader("../data/resume.txt")
+    loader = TextLoader("data/resume.txt")
     documents = loader.load()
 
     # split it into chunks

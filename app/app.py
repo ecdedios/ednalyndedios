@@ -48,8 +48,6 @@ def process_input(inputs):
 
 def page():
 
-    st.text(str(os.path.dirname(sys.executable)))
-
     st.markdown(
         """
         <style>

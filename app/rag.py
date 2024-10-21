@@ -10,14 +10,12 @@ import chromadb
 
 from typing import Annotated, Sequence, TypedDict, Literal
 
-from openai import OpenAIError
-from openai import AsyncOpenAI, OpenAI
-
 from langchain_ollama import ChatOllama
 from langchain import hub
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
-from langchain_openai import OpenAIEmbeddings
+from langchain_community.embeddings import OllamaEmbeddings
+from langchain_community import embeddings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.messages import AnyMessage, BaseMessage, HumanMessage, SystemMessage
 from langchain.tools.retriever import create_retriever_tool
@@ -52,7 +50,8 @@ def get_graph():
     text_splitter = CharacterTextSplitter(chunk_size=100, chunk_overlap=25)
     docs = text_splitter.split_documents(documents)
 
-    embedding_model = ollama.embeddings(model="mxbai-embed-large", prompt=d)
+    # embedding_model = ollama.embeddings(model="mxbai-embed-large")
+    embedding_model = embeddings.ollama.OllamaEmbeddings(model='mxbai-embed-large')
     faiss_db = FAISS.from_documents(docs, embedding_model) 
     retriever = faiss_db.as_retriever(search_type="similarity", search_kwargs={"k": 4})
 

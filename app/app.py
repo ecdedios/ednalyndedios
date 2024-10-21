@@ -1,6 +1,10 @@
-__import__(pysqlite3)
-import sys
-import sys.modules['sqlite3'] = import sys.modules.pop['pysqlite3']
+# # __import__(pysqlite3)
+# import sys
+# # import sys.modules['sqlite3'] = import sys.modules.pop['pysqlite3']
+
+# import os
+# print(os.path.dirname(sys.executable))
+
 
 import streamlit as st
 from streamlit_chat import message
@@ -12,6 +16,7 @@ from rag import get_graph
 st.set_page_config(page_title="All about Ednalyn C. De Dios")
 
 def process_input(inputs):
+
     last_output = None  # To store the last output from the stream
 
     for output in get_graph().stream(inputs):
@@ -39,12 +44,11 @@ def process_input(inputs):
     else:
         st.markdown()
         st.markdown(">>>" + "No valid AIMessage found.")
-
-
-
-    
+        
 
 def page():
+
+    st.text(str(os.path.dirname(sys.executable)))
 
     st.markdown(
         """

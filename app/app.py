@@ -1,3 +1,7 @@
+__import__(pysqlite3)
+import sys
+import sys.modules['sqlite3'] = import sys.modules.pop['pysqlite3']
+
 import streamlit as st
 from streamlit_chat import message
 import pprint
